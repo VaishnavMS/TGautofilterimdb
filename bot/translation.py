@@ -10,6 +10,10 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For Join Our movie Channel to access all the contents..
+
+
+
+by
 @VMS003
 </i>"""    
     
@@ -49,6 +53,8 @@ For Join Our movie Channel to access all the contents..
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Makise Kurisu</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+
+<b>➥ Lord</b> : <b><i><a href="https://t.me/VMS003">VMS003  </a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
