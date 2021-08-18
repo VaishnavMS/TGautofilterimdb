@@ -1,7 +1,7 @@
 # Kurisu Auto Filter Bot V01
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/VaishnavMS/TGautofilterimdb">
     <img src="https://telegra.ph/file/82848c7ab5bb6289cb99d.jpg">
 
   </a>
